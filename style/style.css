@@ -1,0 +1,195 @@
+h2 {
+    font-size: 4rem;
+    color: white;
+    margin-left: 3%;
+    text-shadow: 2px 2px gray;
+}
+
+h4 {
+    font-size: 2rem;
+    color: white;
+    margin-left: 3%;
+    text-shadow: 2px gray; 
+}
+
+
+.header {
+    background-image: url(https://placeimg.com/640/480/nature);
+    size: cover;
+    height: 600px;
+    background-size: 100%;
+    padding: 50px 0 0 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title {
+    margin-top: 7%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 5rem;
+    display: flex;
+    text-align: center;
+    
+}
+
+.categories-subtitle {
+    color: grey;
+}
+
+.btn {
+    background-color: rgba(62, 73, 218, 0.945);
+    color: white;
+    padding: 1%;
+    border-radius: 4px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    width: 20%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.categories {
+    color: gray
+}
+
+.cards {
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+.cards1 {
+    grid-template-columns: 1fr 2fr;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+}
+
+.cards2 {
+    grid-template-columns: 3fr;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    background-image: url(https://placeimg.com/640/480/nature/sepia);
+    margin: 4%;
+}
+
+.cards3 {
+    grid-template-columns: 2fr 1fr;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+}
+
+.nature{
+   background-image: url(https://placeimg.com/640/480/arch);
+   margin: 4%;
+}
+
+.daily {
+    background-image: url(https://placeimg.com/640/480/people);
+    margin: 4%;
+}
+
+.together {
+    background-image: url(https://placeimg.com/640/480/people/sepia);
+    margin: 4%;
+}
+
+.analysis {
+    background-image: url(https://placeimg.com/640/480/animals/grayscale);
+    margin: 4%;
+}
+
+.pictures {
+    background-image: url(https://placeimg.com/640/480/tech/grayscale);
+    margin: 4%;
+}
+
+.footer {
+    background-color: gainsboro;
+    
+}
+
+.graphic-grid {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+}
+
+.graphic-data {
+    background-color: lightseagreen;
+    width: 12rem;
+    padding: 10%;
+    margin: 0;
+}
+
+.graphic-value {
+    background-color: rgb(13, 58, 100);
+    width: 12rem;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.graphic-value2 {
+    background-color: rgb(13, 58, 100);
+    width: 12rem;
+    padding-top: 25%;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.graphic-value3 {
+    background-color: rgb(13, 58, 100);
+    width: 12rem;
+    padding-top: 40%;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.graphic-value4 {
+    background-color: rgb(13, 58, 100);
+    width: 12rem;
+    padding-top: 55%;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.graphic-value5 {
+    background-color: rgb(13, 58, 100);
+    width: 12rem;
+    padding-top: 80%;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.graphic-value6 {
+    background-color: rgb(13, 58, 100);
+    width: 12rem;
+    padding-top: 95%;
+    padding-right: 20%;
+    margin: 0;
+}
+
+.graphic {
+    height: 90%;
+}
+
+.section-footer {
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+.card-graphics {
+    margin-right: 20%;
+    margin-left: 20%;
+}
